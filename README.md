@@ -19,7 +19,7 @@ npm i emojiapp
 ```
 
 ```jsx
-import EmojiPicker from "./EmojiPicker";
+import EmojiPicker from "emojiapp";
 import baseImageFile from "emojiapp/build/images/merged-min-64.png";
 
 function MyComponent() {
