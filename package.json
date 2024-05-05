@@ -6,6 +6,14 @@
   "files": [
     "build"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pushpendrahpx/emojiapp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pushpendrahpx/emojiapp/issues"
+  },
+  "homepage": "https://github.com/pushpendrahpx/emojiapp#readme",
   "dependencies": {
     "@babel/polyfill": "^7.12.1",
     "react-scripts": "5.0.1",
