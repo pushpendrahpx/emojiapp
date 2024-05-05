@@ -2,9 +2,13 @@
 
 The `EmojiPicker` component is a user-friendly interface for selecting emojis. It renders a list of emojis and allows the user to click on an emoji to select it.
 
+
+<img width="376" alt="Screenshot 2024-05-05 at 4 37 25 PM" src="https://github.com/pushpendrahpx/emojiapp/assets/48829314/5007b5d7-6adf-464f-ba83-0887e6d2df51">
+
 ## Props
 
-- `onEmojiClick`: A callback function that will be invoked when an emoji is clicked. It receives the selected emoji as an argument.
+- `onEmojiClick`: A callback function that will be invoked when an emoji is clicked. It receives the selected emoji as an argument of type Array(3) [hexCode, name].
+- `baseImg`: This is the base Image which uses to show the emoji in picker.
 
 ## Usage
 
