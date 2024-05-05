@@ -39,7 +39,7 @@ function MyComponent() {
 
 ## Acknowledgements
 
-This package utilizes assets from the [Twemoji](https://github.com/twitter/twemoji) library, which provides open-source emoji graphics. Twemoji is licensed under the CC-BY 4.0 license. For more information about Twemoji and its license, please visit their GitHub repository.
+This package utilizes assets from the [Twemoji](https://github.com/twitter/twemoji) library, which provides open-source emoji graphics. Twemoji is licensed under the MIT license. For more information about Twemoji and its license, please visit their GitHub repository.
 
 ## Contributions
 
