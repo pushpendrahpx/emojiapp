@@ -57,7 +57,12 @@
     "webpack": "^5.91.0",
     "webpack-cli": "^5.1.4"
   },
-  "keywords": [],
+  "keywords": [
+    "emojipicker",
+    "emojiapp",
+    "emojis",
+    "emoji picker react"
+  ],
   "author": "",
   "license": "ISC"
 }
